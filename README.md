@@ -14,3 +14,7 @@ Ce projet est un mini-serveur web en Python qui permet d'héberger une image et 
 - **Flask** doit être installé :
   ```bash
   pip install flask
+
+
+## 📝 Logs
+- **YYYY-MM-DD HH:MM:SS - IP: <adresse IP>
