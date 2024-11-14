@@ -17,10 +17,10 @@ Ce projet est un mini-serveur web en Python qui permet d'héberger une image et 
 
 
 ## 📝 Logs
-- **YYYY-MM-DD HH:MM:SS - IP: <adresse IP>
+- YYYY-MM-DD HH:MM:SS - IP: <adresse IP>
 
 ## 🌍 Accès Public
--Pour que l'image soit accessible publiquement :
+- Pour que l'image soit accessible publiquement :
 
-- **Configure la redirection de port sur ton routeur pour le port 8080.
-- **Accède à l’image via http://<ton_ip_publique>:8080.
+- Configure la redirection de port sur ton routeur pour le port 8080.
+- Accède à l’image via http://<ton_ip_publique>:8080.
